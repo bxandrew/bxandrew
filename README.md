@@ -1,6 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Welcome to my page!</h1>
 
-<p>I'm Andrew, a Full Stack Software Developer.</br></p>
+<p>
+  <p>I'm Andrew, a Full Stack Software Developer.</p>
+  <a href="https://www.linkedin.com/in/bxandrew">
+    <img align="left" alt="Andrew's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+  </a>
+  </br>
+</p>
+
+
 <h3>Things I code with:</h3>
 <p>
   — Front End —
