@@ -2,7 +2,7 @@
 
 <p>
   <p>I'm Andrew, a Full Stack Software Developer.</p>
-  <a href="https://www.linkedin.com/in/bxandrew">
+  <a href="https://www.linkedin.com/in/-andrew-feng">
     <img align="left" alt="Andrew's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
   </a>
   </br>
