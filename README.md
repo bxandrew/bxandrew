@@ -42,11 +42,3 @@
     <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white" />
 </p>
 
-<p>
-  <h4>Current Objectives: 
-    </br> 
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" />
-    <img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06" />
- </h4>
-</p>
-
