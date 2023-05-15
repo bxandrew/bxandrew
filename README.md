@@ -1,11 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Welcome to my page!</h1>
 
 <p>
-  <p>Hi I'm Andrew, a Full Stack Software Engineer with a background in science and healthcare. Transitioning from biotech to software engineering was a big, but comfortable change. Being a creative and inquisitive problem solver, I love using technology to make tasks easier for myself and my peers. I enjoy exploring innovative solutions, learning new tools and frameworks, and building user-intuitive applications that can help solve real world problems. </p>
-  <a href="https://www.linkedin.com/in/-andrew-feng">
-    <img align="left" alt="Andrew's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
-  </a>
-  </br>
+  <p>Hi, I'm Andrew! I am a Full Stack Software Engineer with a background in science and healthcare. Transitioning from biotech to software engineering was a big, but comfortable change. Being a creative and inquisitive problem solver, I love using technology to make tasks easier for myself and my peers. I enjoy exploring innovative solutions, learning new tools and frameworks, and building user-intuitive applications that can help solve real world problems. </p>
 </p>
 
 
