@@ -9,7 +9,7 @@
 </p>
 
 
-<h3>Things I code with:</h3>
+## Technologies
 <p>
   — Front End —
   </br>
@@ -42,3 +42,5 @@
     <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white" />
 </p>
 
+## Contact Me
+<a href="https://www.linkedin.com/in/-andrew-feng">Andrew Feng - LinkedIn</a>
